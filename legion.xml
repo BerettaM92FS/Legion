@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+    <employee>
+        <id>b35342c6-961d-402e-955d-1b75b027e359</id>
+        <surname>Лысенко</surname>
+        <name>Фёдор</name>
+        <patronymic>Фёдорович</patronymic>
+        <birthday>01.01.1948</birthday>
+        <gender>Мужской</gender>
+        <phone>7(904)348-59-66</phone>
+        <position>Генеральный директор</position>
+        <otdel>Руководство</otdel>
+        <bossID> </bossID>
+        <date>01.01.2010</date>
+        <money>150000</money>
+        <status>Числится</status>
+    </employee>
+    <employee>
+        <id>8d5cb625-f4e9-4973-9d34-2073536e915e</id>
+        <surname>Шевчук</surname>
+        <name>Илья</name>
+        <patronymic>Михайлович</patronymic>
+        <birthday>21.03.1980</birthday>
+        <gender>Мужской</gender>
+        <phone>7(904)416-61-40</phone>
+        <position>Заместитель генерального директора</position>
+        <otdel>Руководство</otdel>
+        <bossID>b35342c6-961d-402e-955d-1b75b027e359</bossID>
+        <date>01.01.2010</date>
+        <money>100000</money>
+        <status>Числится</status>
+    </employee>
+    <employee>
+        <id>a8a1b75c-a470-42f2-88fc-d793797706cd</id>
+        <surname>Подыбайло</surname>
+        <name>Александр</name>
+        <patronymic>Викторович</patronymic>
+        <birthday>19.10.1978</birthday>
+        <gender>Мужской</gender>
+        <phone>7(904)257-97-40</phone>
+        <position>Коммерческий директор</position>
+        <otdel>Руководство</otdel>
+        <bossID>b35342c6-961d-402e-955d-1b75b027e359</bossID>
+        <date>02.01.2010</date>
+        <money>100000</money>
+        <status>Числится</status>
+    </employee>
+    <employee>
+        <id>0b1c101b-fd1e-4e5c-a7c5-4999d6665eb6</id>
+        <surname>Давыдов</surname>
+        <name>Борис</name>
+        <patronymic>Евгеньевич</patronymic>
+        <birthday>15.12.1988</birthday>
+        <gender>Мужской</gender>
+        <phone>7(904)840-83-46</phone>
+        <position>Директор по продажам</position>
+        <otdel>Руководство</otdel>
+        <bossID>b35342c6-961d-402e-955d-1b75b027e359</bossID>
+        <date>02.01.2010</date>
+        <money>100000</money>
+        <status>Числится</status>
+    </employee>
+    <employee>
+        <id>5869eaae-7817-4c24-b77b-4fdfa4459031</id>
+        <surname>Каменева</surname>
+        <name>Ирина</name>
+        <patronymic>Викторовна</patronymic>
+        <birthday>30.08.1977</birthday>
+        <gender>Женский</gender>
+        <phone>7(904)842-80-87</phone>
+        <position>Главный бухгалтер</position>
+        <otdel>Кадры и бухгалтерия</otdel>
+        <bossID>a8a1b75c-a470-42f2-88fc-d793797706cd</bossID>
+        <date>03.01.2010</date>
+        <money>70000</money>
+        <status>Числится</status>
+    </employee>
+    <employee>
+        <id>9fa86bcd-0fa6-434e-9dda-e2f40fd0f6f9</id>
+        <surname>Тронбицкая</surname>
+        <name>Инна</name>
+        <patronymic>Сергеевна</patronymic>
+        <birthday>17.12.1987</birthday>
+        <gender>Женский</gender>
+        <phone>7(904)041-29-19</phone>
+        <position>Бухгалтер</position>
+        <otdel>Кадры и бухгалтерия</otdel>
+        <bossID>5869eaae-7817-4c24-b77b-4fdfa4459031</bossID>
+        <date>01.02.2010</date>
+        <money>50000</money>
+        <status>Числится</status>
+    </employee>
+    <employee>
+        <id>a6449856-3e3f-491b-a857-061fa824c70b</id>
+        <surname>Подыбайло</surname>
+        <name>Ольга</name>
+        <patronymic>Александровна</patronymic>
+        <birthday>29.11.1978</birthday>
+        <gender>Женский</gender>
+        <phone>7(904)771-41-14</phone>
+        <position>Кадровик</position>
+        <otdel>Кадры и бухгалтерия</otdel>
+        <bossID>a8a1b75c-a470-42f2-88fc-d793797706cd</bossID>
+        <date>03.01.2010</date>
+        <money>70000</money>
+        <status>Числится</status>
+    </employee>
+    <employee>
+        <id>6f325b1f-ac91-4271-9c83-25b89730d4a0</id>
+        <surname>Шестаков</surname>
+        <name>Геннадий</name>
+        <patronymic>Анатольевич</patronymic>
+        <birthday>22.06.1970</birthday>
+        <gender>Мужской</gender>
+        <phone>7(904)440-00-12</phone>
+        <position>Руководитель отдела IT</position>
+        <otdel>Отдел ИТ</otdel>
+        <bossID>b35342c6-961d-402e-955d-1b75b027e359</bossID>
+        <date>01.01.2010</date>
+        <money>70000</money>
+        <status>Числится</status>
+    </employee>
+    <employee>
+        <id>7c3d7d93-27fd-4049-9453-da8832e7958b</id>
+        <surname>Базаренко</surname>
+        <name>Андрей</name>
+        <patronymic>Николаевич</patronymic>
+        <birthday>24.12.1993</birthday>
+        <gender>Мужской</gender>
+        <phone>7(904)947-89-57</phone>
+        <position>Системный администратор</position>
+        <otdel>Отдел ИТ</otdel>
+        <bossID>6f325b1f-ac91-4271-9c83-25b89730d4a0</bossID>
+        <date>01.01.2010</date>
+        <money>70000</money>
+        <status>Числится</status>
+    </employee>
+    <employee>
+        <id>64508a73-8071-44ef-929b-74ce242b760a</id>
+        <surname>Коновалова</surname>
+        <name>Надежда</name>
+        <patronymic>Михайловна</patronymic>
+        <birthday>15.11.1982</birthday>
+        <gender>Женский</gender>
+        <phone>7(950)609-28-08</phone>
+        <position>Главный редактор</position>
+        <otdel>Редакция</otdel>
+        <bossID>0b1c101b-fd1e-4e5c-a7c5-4999d6665eb6</bossID>
+        <date>18.04.2014</date>
+        <money>65000</money>
+        <status>Числится</status>
+    </employee>
+    <employee>
+        <id>22cb5131-33ed-42cc-b006-86f76a3bf9cb</id>
+        <surname>Бездудный</surname>
+        <name>Дмитрий</name>
+        <patronymic>Владимирович</patronymic>
+        <birthday>01.03.1990</birthday>
+        <gender>Мужской</gender>
+        <phone>7(950)913-54-07</phone>
+        <position>Верстальщик</position>
+        <otdel>Редакция</otdel>
+        <bossID>64508a73-8071-44ef-929b-74ce242b760a</bossID>
+        <date>29.06.2016</date>
+        <money>50000</money>
+        <status>Числится</status>
+    </employee>
+    <employee>
+        <id>dcf26a99-dc99-4ad9-b5a5-cbb21372f4df</id>
+        <surname>Рышков</surname>
+        <name>Дмитрий</name>
+        <patronymic>Михайлович</patronymic>
+        <birthday>15.11.1978</birthday>
+        <gender>Мужской</gender>
+        <phone>7(950)053-38-43</phone>
+        <position>Дизайнер</position>
+        <otdel>Редакция</otdel>
+        <bossID>64508a73-8071-44ef-929b-74ce242b760a</bossID>
+        <date>01.10.2018</date>
+        <money>45000</money>
+        <status>Числится</status>
+    </employee>
+    <employee>
+        <id>17cbd110-c10e-4586-bbd0-b3d902b9d7fb</id>
+        <surname>Пампура</surname>
+        <name>Василий</name>
+        <patronymic>Геннадьевич</patronymic>
+        <birthday>02.08.1979</birthday>
+        <gender>Мужской</gender>
+        <phone>7(950)412-42-16</phone>
+        <position>Старший редактор</position>
+        <otdel>Редакция</otdel>
+        <bossID>64508a73-8071-44ef-929b-74ce242b760a</bossID>
+        <date>08.06.2016</date>
+        <money>50000</money>
+        <status>Числится</status>
+    </employee>
+    <employee>
+        <id>ac4219a9-3a01-498c-b2fd-2f17787ae0fc</id>
+        <surname>Бобякова</surname>
+        <name>Ирина</name>
+        <patronymic>Вячеславовна</patronymic>
+        <birthday>02.08.1979</birthday>
+        <gender>Женский</gender>
+        <phone>7(950)151-05-03</phone>
+        <position>Корректор</position>
+        <otdel>Редакция</otdel>
+        <bossID>64508a73-8071-44ef-929b-74ce242b760a</bossID>
+        <date>08.06.2016</date>
+        <money>50000</money>
+        <status>Числится</status>
+    </employee>
+    <employee>
+        <id>7a4fc6c9-2561-4300-8bc9-3c0c945a02eb</id>
+        <surname>Сенина</surname>
+        <name>Наталья</name>
+        <patronymic>Аркадьевна</patronymic>
+        <birthday>03.06.1975</birthday>
+        <gender>Женский</gender>
+        <phone>7(950)160-57-82</phone>
+        <position>Начальник отдела русского языка</position>
+        <otdel>Отдел русского языка</otdel>
+        <bossID>0b1c101b-fd1e-4e5c-a7c5-4999d6665eb6</bossID>
+        <date>15.10.2014</date>
+        <money>70000</money>
+        <status>Числится</status>
+    </employee>
+    <employee>
+        <id>366ebdec-f371-4c5c-8374-fdd24699ae62</id>
+        <surname>Нарушевич</surname>
+        <name>Андрей</name>
+        <patronymic>Георгиевич</patronymic>
+        <birthday>21.10.1976</birthday>
+        <gender>Мужской</gender>
+        <phone>7(950)451-20-42</phone>
+        <position>Специалист</position>
+        <otdel>Отдел русского языка</otdel>
+        <bossID>7a4fc6c9-2561-4300-8bc9-3c0c945a02eb</bossID>
+        <date>18.08.2015</date>
+        <money>70000</money>
+        <status>Числится</status>
+    </employee>
+    <employee>
+        <id>e0bc430b-bde3-4c87-91fa-d50796489a05</id>
+        <surname>Кулабухов</surname>
+        <name>Сергей</name>
+        <patronymic>Юрьевич</patronymic>
+        <birthday>16.02.1976</birthday>
+        <gender>Мужской</gender>
+        <phone>7(950)559-76-66</phone>
+        <position>Начальник отдела математикиа</position>
+        <otdel>Отдел математики</otdel>
+        <bossID>b35342c6-961d-402e-955d-1b75b027e359</bossID>
+        <date>04.07.2012</date>
+        <money>70000</money>
+        <status>Числится</status>
+    </employee>
+    <employee>
+        <id>42a1febb-0af4-4492-94d5-0a9017ac738f</id>
+        <surname>Иванов</surname>
+        <name>Сергей</name>
+        <patronymic>Олегович</patronymic>
+        <birthday>21.11.1978</birthday>
+        <gender>Мужской</gender>
+        <phone>7(950)189-79-22</phone>
+        <position>Преподаватель математики</position>
+        <otdel>Отдел математики</otdel>
+        <bossID>e0bc430b-bde3-4c87-91fa-d50796489a05</bossID>
+        <date>18.08.2011</date>
+        <money>50000</money>
+        <status>Числится</status>
+    </employee>
+    <employee>
+        <id>212670b8-2c0c-4e1f-ad5c-18bdf7863f32</id>
+        <surname>Безглова</surname>
+        <name>Сергей</name>
+        <patronymic>Олегович</patronymic>
+        <birthday>23.09.1982</birthday>
+        <gender>Женский</gender>
+        <phone>7(950)926-60-94</phone>
+        <position>Преподаватель математики</position>
+        <otdel>Отдел математики</otdel>
+        <bossID>e0bc430b-bde3-4c87-91fa-d50796489a05</bossID>
+        <date>18.01.2012</date>
+        <money>50000</money>
+        <status>Числится</status>
+    </employee>
+    <employee>
+        <id>5fbc96bd-4274-4f9e-ba06-f938da4ff003</id>
+        <surname>Никандрова</surname>
+        <name>Елена</name>
+        <patronymic>Викторовна</patronymic>
+        <birthday>19.08.1985</birthday>
+        <gender>Женский</gender>
+        <phone>7(948)072-20-78</phone>
+        <position>Директор департамента продаж</position>
+        <otdel>Отдел продаж</otdel>
+        <bossID>0b1c101b-fd1e-4e5c-a7c5-4999d6665eb6</bossID>
+        <date>31.01.2012</date>
+        <money>70000</money>
+        <status>Числится</status>
+    </employee>
+    <employee>
+        <id>0ef3b250-1762-4d6b-ae8a-f5ac2b4701fb</id>
+        <surname>Ульянова</surname>
+        <name>Ольга</name>
+        <patronymic>Михайловна</patronymic>
+        <birthday>03.04.1991</birthday>
+        <gender>Женский</gender>
+        <phone>7(948)453-90-64</phone>
+        <position>Заместитель директора департамента продаж</position>
+        <otdel>Отдел продаж</otdel>
+        <bossID>5fbc96bd-4274-4f9e-ba06-f938da4ff003</bossID>
+        <date>06.05.2016</date>
+        <money>40000</money>
+        <status>Числится</status>
+    </employee>
+    <employee>
+        <id>2abfdfa9-e0da-4e47-a3c9-6504105b7196</id>
+        <surname>Огиенко</surname>
+        <name>Надежда</name>
+        <patronymic>Петровна</patronymic>
+        <birthday>25.09.1990</birthday>
+        <gender>Женский</gender>
+        <phone>7(948)086-93-07</phone>
+        <position>Специалист по работе с регионами</position>
+        <otdel>Отдел продаж</otdel>
+        <bossID>5fbc96bd-4274-4f9e-ba06-f938da4ff003</bossID>
+        <date>24.03.2010</date>
+        <money>40000</money>
+        <status>Числится</status>
+    </employee>
+    <employee>
+        <id>97b64880-2157-4d50-b667-c0b759754756</id>
+        <surname>Попова</surname>
+        <name>Анна</name>
+        <patronymic>Витальевна</patronymic>
+        <birthday>15.06.1987</birthday>
+        <gender>Женский</gender>
+        <phone>7(948)399-45-56</phone>
+        <position>Специалист по работе с регионами</position>
+        <otdel>Отдел продаж</otdel>
+        <bossID>5fbc96bd-4274-4f9e-ba06-f938da4ff003</bossID>
+        <date>27.01.2017</date>
+        <money>40000</money>
+        <status>Числится</status>
+    </employee>
+    <employee>
+        <id>504fa6b1-3227-4264-a108-ec7ea07eaf30</id>
+        <surname>Махненко</surname>
+        <name>Сергей</name>
+        <patronymic>Георгиевич</patronymic>
+        <birthday>07.09.1960</birthday>
+        <gender>Мужской</gender>
+        <phone>7(932)288-36-66</phone>
+        <position>Начальник отдела развития</position>
+        <otdel>Отдел развития</otdel>
+        <bossID>b35342c6-961d-402e-955d-1b75b027e359</bossID>
+        <date>26.04.2010</date>
+        <money>80000</money>
+        <status>Числится</status>
+    </employee>
+    <employee>
+        <id>9b6ca8b7-3efd-4298-b1d2-68cbed578ccf</id>
+        <surname>Коваленко</surname>
+        <name>Марина</name>
+        <patronymic>Витальевна</patronymic>
+        <birthday>05.03.2018</birthday>
+        <gender>Женский</gender>
+        <phone>7(932)421-32-46</phone>
+        <position>Специалист отдела развития</position>
+        <otdel>Отдел развития</otdel>
+        <bossID>504fa6b1-3227-4264-a108-ec7ea07eaf30</bossID>
+        <date>02.11.2011</date>
+        <money>45000</money>
+        <status>Числится</status>
+    </employee>
+    <employee>
+        <id>6372175e-87bb-4974-8a01-e9fad2e212d5</id>
+        <surname>Андрецова</surname>
+        <name>Лариса</name>
+        <patronymic>Витальевна</patronymic>
+        <birthday>01.12.1989</birthday>
+        <gender>Женский</gender>
+        <phone>7(932)265-42-57</phone>
+        <position>Специалист отдела развития</position>
+        <otdel>Отдел развития</otdel>
+        <bossID>504fa6b1-3227-4264-a108-ec7ea07eaf30</bossID>
+        <date>26.07.2017</date>
+        <money>45000</money>
+        <status>Числится</status>
+    </employee>
+</employees>
